@@ -1,0 +1,14 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+/application/api
+/application/extra
+/application/index
+/application/show
+/extend
+/public
+/public/*
+/runtime/
+/thinkphp/
+/verndor/
+/*
+
